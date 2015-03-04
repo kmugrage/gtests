@@ -1,0 +1,11 @@
+08:06:42.623 [DEBU] Runner exited with error: exit status 1
+08:06:42.623 [DEBU] Runner connection error: Runner exited with error: exit status 1
+08:06:42.627 [DEBU] Runner exited with error: exit status 1
+08:06:42.627 [DEBU] Runner connection error: Runner exited with error: exit status 1
+08:06:42.627 [CRIT] Failed to start a runner. Runner exited with error: exit status 1
+
+08:11:31.965 [DEBU] Plugin [Html Report] with pid [11022] has exited
+08:11:31.965 [INFO] 2 scenarios executed, 0 failed
+08:11:31.965 [INFO] 1 specifications executed, 0 failed
+08:11:31.965 [INFO] 0 specifications skipped
+08:11:31.965 [INFO] 31ms
